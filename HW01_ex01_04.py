@@ -1,6 +1,6 @@
 # HW01_ex01_04
 # Start the Python interpreter and use it as a calculator. 
-# Pythons syntax for math operations is almost the same as 
+# Python's syntax for math operations is almost the same as 
 # standard mathematical notation. For example, the symbols 
 # +, - and / denote addition, subtraction and division, as you would expect. 
 # The symbol for multiplication is *.
